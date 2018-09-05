@@ -1,0 +1,17 @@
+{
+  "name": "Programming",
+  "version": "1.0.0",
+  "description": "Learning to program",
+  "main": "index.ts",
+  "author": "Kirsten",
+  "license": "Private",
+  "private": true,
+  "devDependencies": {
+    "@types/koa": "^2.0.46",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
+}
